@@ -56,3 +56,7 @@
     color
     font-size
     text-align 같은 속성들이 존재한다.
+
+### color
+
+    HTML 컬러 차트 : https://html-color-codes.info/Korean/
